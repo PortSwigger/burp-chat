@@ -1,0 +1,11 @@
+Uuid: 1d0986521ace4b2dbf0b70836efa999d
+ExtensionType: 1
+Name: Burp Chat
+ScreenVersion: 1.0
+SerialVersion: 2
+MinPlatformVersion: 0
+ProOnly: False
+Author: Chris (evolutionVIII)
+ShortDescription: Enables collaborative usage of Burp using XMPP/Jabber.
+EntryPoint: BurpExtender/dist/BurpExtender.jar
+BuildCommand: rm -f BurpExtender/dist/BurpExtender.jar; cd BurpExtender && ant
