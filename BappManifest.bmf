@@ -1,6 +1,7 @@
 Uuid: 1d0986521ace4b2dbf0b70836efa999d
 ExtensionType: 1
 Name: Burp Chat
+RepoName: burp-chat
 ScreenVersion: 1.1
 SerialVersion: 3
 MinPlatformVersion: 0
